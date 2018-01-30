@@ -1,0 +1,15 @@
+{
+	{
+		 geometry={{
+          type: 'Point',
+          coordinates: [55.8, 37.8],
+        }}
+        properties={{
+          iconContent: 'Я тащусь',
+          hintContent: 'Ну давай уже тащи',
+        }}
+	},
+	{
+
+	}
+}
